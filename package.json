@@ -1,0 +1,30 @@
+{
+  "name": "@furkot/osmand-data",
+  "version": "0.0.0",
+  "description": "Data used by Furkot modules dealing with OsmAnd GPX format.",
+  "author": {
+    "name": "Natalia Kowalczyk",
+    "email": "melitele@furkot.com",
+    "url": "https://melitele.me"
+  },
+  "repository": "furkot/osmand-data",
+  "license": "MIT",
+  "keywords": [
+    "furkot-osmand-data",
+    "furkot",
+    "osmand"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "jshint": "~2",
+    "mocha": "~10",
+    "should": "~13"
+  },
+  "scripts": {
+    "test": "make check"
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ]
+}
