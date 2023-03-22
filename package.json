@@ -1,6 +1,6 @@
 {
   "name": "@furkot/osmand-data",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Data used by Furkot modules dealing with OsmAnd GPX format.",
   "author": {
     "name": "Natalia Kowalczyk",
