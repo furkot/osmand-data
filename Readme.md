@@ -38,7 +38,7 @@ MIT © [Natalia Kowalczyk](https://melitele.me)
 [npm-url]: https://npmjs.org/package/@furkot/osmand-data
 
 [build-url]: https://github.com/furkot/osmand-data/actions/workflows/check.yaml
-[build-image]: https://img.shields.io/github/workflow/status/furkot/osmand-data/check
+[build-image]: https://img.shields.io/github/actions/workflow/status/furkot/osmand-data/check.yaml?branch=main
 
 [deps-image]: https://img.shields.io/librariesio/release/npm/@furkot/osmand-data
 [deps-url]: https://libraries.io/npm/@furkot%2Fosmand-data
