@@ -1,0 +1,1907 @@
+.osmand {
+    background-image: url(24x24.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.osmand_aerialway_transport {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -1px;
+}
+
+.osmand_aeroway_fuel {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -1px;
+}
+
+.osmand_air_transport {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -1px;
+}
+
+.osmand_amenity_atm {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -1px;
+}
+
+.osmand_amenity_bar {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -1px;
+}
+
+.osmand_amenity_biergarten {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -1px;
+}
+
+.osmand_amenity_cafe {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -1px;
+}
+
+.osmand_amenity_cinema {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -1px;
+}
+
+.osmand_amenity_dentist {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -1px;
+}
+
+.osmand_amenity_doctors {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -1px;
+}
+
+.osmand_amenity_drinking_water {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -1px;
+}
+
+.osmand_amenity_embassy {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -1px;
+}
+
+.osmand_amenity_fast_food {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -1px;
+}
+
+.osmand_amenity_fire_station {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -1px;
+}
+
+.osmand_amenity_fountain {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -1px;
+}
+
+.osmand_amenity_fuel_lpg {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -1px;
+}
+
+.osmand_amenity_hospital {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -1px;
+}
+
+.osmand_amenity_marketplace {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -27px;
+}
+
+.osmand_amenity_parking {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -27px;
+}
+
+.osmand_amenity_pharmacy {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -27px;
+}
+
+.osmand_amenity_police {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -27px;
+}
+
+.osmand_amenity_post_box {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -27px;
+}
+
+.osmand_amenity_prison {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -27px;
+}
+
+.osmand_amenity_school {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -27px;
+}
+
+.osmand_amenity_telephone {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -27px;
+}
+
+.osmand_amenity_theatre {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -27px;
+}
+
+.osmand_amenity_toilets {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -27px;
+}
+
+.osmand_amenity_university {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -27px;
+}
+
+.osmand_amenity_veterinary {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -27px;
+}
+
+.osmand_american_football {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -27px;
+}
+
+.osmand_attraction_carousel {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -27px;
+}
+
+.osmand_attraction_roller_coaster {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -27px;
+}
+
+.osmand_bandstand {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -27px;
+}
+
+.osmand_barbecue {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -27px;
+}
+
+.osmand_beach {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -53px;
+}
+
+.osmand_beachvolleyball {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -53px;
+}
+
+.osmand_bicycle_transport {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -53px;
+}
+
+.osmand_boat_rental {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -53px;
+}
+
+.osmand_bridge_movable_lift {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -53px;
+}
+
+.osmand_bridge_structure_arch {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -53px;
+}
+
+.osmand_bridge_structure_beam {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -53px;
+}
+
+.osmand_bridge_structure_suspension {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -53px;
+}
+
+.osmand_bridge_type_movable {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -53px;
+}
+
+.osmand_building {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -53px;
+}
+
+.osmand_building_type_basilica {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -53px;
+}
+
+.osmand_building_type_cathedral {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -53px;
+}
+
+.osmand_building_type_chapel {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -53px;
+}
+
+.osmand_building_type_church {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -53px;
+}
+
+.osmand_building_type_monastery {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -53px;
+}
+
+.osmand_building_type_mosque {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -53px;
+}
+
+.osmand_building_type_pyramid {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -53px;
+}
+
+.osmand_building_type_synagogue {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -79px;
+}
+
+.osmand_car_wash_yes {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -79px;
+}
+
+.osmand_charging_station {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -79px;
+}
+
+.osmand_childcare {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -79px;
+}
+
+.osmand_city_wall {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -79px;
+}
+
+.osmand_conveying_yes {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -79px;
+}
+
+.osmand_cooling_tower {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -79px;
+}
+
+.osmand_craft_boatbuilder {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -79px;
+}
+
+.osmand_dam {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -79px;
+}
+
+.osmand_defibrillator {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -79px;
+}
+
+.osmand_dog_park {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -79px;
+}
+
+.osmand_driver_training {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -79px;
+}
+
+.osmand_driving_school {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -79px;
+}
+
+.osmand_emergency_fire_hydrant {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -79px;
+}
+
+.osmand_field_hockey {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -79px;
+}
+
+.osmand_fire_extinguisher {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -79px;
+}
+
+.osmand_fire_hydrant_type_underground {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -79px;
+}
+
+.osmand_firepit {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -105px;
+}
+
+.osmand_fuel {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -105px;
+}
+
+.osmand_garden {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -105px;
+}
+
+.osmand_generator_source_coal {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -105px;
+}
+
+.osmand_generator_source_gas {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -105px;
+}
+
+.osmand_generator_source_nuclear {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -105px;
+}
+
+.osmand_generator_source_wind {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -105px;
+}
+
+.osmand_geocache {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -105px;
+}
+
+.osmand_grave {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -105px;
+}
+
+.osmand_grave_yard {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -105px;
+}
+
+.osmand_hamlet {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -105px;
+}
+
+.osmand_health_amenity_type_first_aid_kit {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -105px;
+}
+
+.osmand_historic_archaeological_site {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -105px;
+}
+
+.osmand_historic_castle {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -105px;
+}
+
+.osmand_historic_manor {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -105px;
+}
+
+.osmand_historic_ruins {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -105px;
+}
+
+.osmand_historic_tank {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -105px;
+}
+
+.osmand_ice_cream {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -131px;
+}
+
+.osmand_ice_hockey {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -131px;
+}
+
+.osmand_information_guidepost {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -131px;
+}
+
+.osmand_internet_access_wired {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -131px;
+}
+
+.osmand_internet_access_wlan {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -131px;
+}
+
+.osmand_island {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -131px;
+}
+
+.osmand_islet {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -131px;
+}
+
+.osmand_isolated_dwelling {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -131px;
+}
+
+.osmand_kindergarten {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -131px;
+}
+
+.osmand_laboratory {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -131px;
+}
+
+.osmand_language_school {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -131px;
+}
+
+.osmand_leisure_beach_resort {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -131px;
+}
+
+.osmand_leisure_bird_hide {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -131px;
+}
+
+.osmand_leisure_fishing {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -131px;
+}
+
+.osmand_leisure_marina {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -131px;
+}
+
+.osmand_leisure_playground {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -131px;
+}
+
+.osmand_leisure_slipway {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -131px;
+}
+
+.osmand_leisure_water_park {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -157px;
+}
+
+.osmand_letter_box {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -157px;
+}
+
+.osmand_level_crossing {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -157px;
+}
+
+.osmand_life_ring {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -157px;
+}
+
+.osmand_man_made_lighthouse {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -157px;
+}
+
+.osmand_man_made_water_tower {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -157px;
+}
+
+.osmand_man_made_water_well {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -157px;
+}
+
+.osmand_man_made_windmill {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -157px;
+}
+
+.osmand_memorial_plaque {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -157px;
+}
+
+.osmand_monument {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -157px;
+}
+
+.osmand_motorcycle_repair {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -157px;
+}
+
+.osmand_mountain_rescue {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -157px;
+}
+
+.osmand_music_school {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -157px;
+}
+
+.osmand_natural_cave_entrance {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -157px;
+}
+
+.osmand_natural_hot_spring {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -157px;
+}
+
+.osmand_natural_peak {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -157px;
+}
+
+.osmand_natural_peak_big {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -157px;
+}
+
+.osmand_natural_spring {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -183px;
+}
+
+.osmand_nature_reserve {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -183px;
+}
+
+.osmand_park {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -183px;
+}
+
+.osmand_parking {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -183px;
+}
+
+.osmand_parking_underground {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -183px;
+}
+
+.osmand_personal_transport {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -183px;
+}
+
+.osmand_picnic_table {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -183px;
+}
+
+.osmand_pitch {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -183px;
+}
+
+.osmand_place_city {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -183px;
+}
+
+.osmand_place_town {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -183px;
+}
+
+.osmand_power_tower {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -183px;
+}
+
+.osmand_prep_school {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -183px;
+}
+
+.osmand_public_transport_stop_position {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -183px;
+}
+
+.osmand_railway_tram_stop {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -183px;
+}
+
+.osmand_reef {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -183px;
+}
+
+.osmand_rescue_box {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -183px;
+}
+
+.osmand_reservoir {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -183px;
+}
+
+.osmand_rest_area {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -209px;
+}
+
+.osmand_restaurants {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -209px;
+}
+
+.osmand_river {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -209px;
+}
+
+.osmand_route_bus_ref {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -209px;
+}
+
+.osmand_route_funicular_ref {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -209px;
+}
+
+.osmand_route_light_rail_ref {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -209px;
+}
+
+.osmand_route_monorail_ref {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -209px;
+}
+
+.osmand_route_railway_ref {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -209px;
+}
+
+.osmand_route_track {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -209px;
+}
+
+.osmand_route_trolleybus_ref {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -209px;
+}
+
+.osmand_routes {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -209px;
+}
+
+.osmand_sanitary_dump_station {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -209px;
+}
+
+.osmand_shop_alcohol {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -209px;
+}
+
+.osmand_shop_bakery {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -209px;
+}
+
+.osmand_shop_boat {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -209px;
+}
+
+.osmand_shop_books {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -209px;
+}
+
+.osmand_shop_butcher {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -209px;
+}
+
+.osmand_shop_car_repair {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -235px;
+}
+
+.osmand_shop_department_store {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -235px;
+}
+
+.osmand_shop_fishing {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -235px;
+}
+
+.osmand_shop_food {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -235px;
+}
+
+.osmand_shop_gift {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -235px;
+}
+
+.osmand_shop_hairdresser {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -235px;
+}
+
+.osmand_shop_laundry {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -235px;
+}
+
+.osmand_shop_mall {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -235px;
+}
+
+.osmand_shop_supermarket {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -235px;
+}
+
+.osmand_spaceport {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -235px;
+}
+
+.osmand_special_arrow_down {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -235px;
+}
+
+.osmand_special_arrow_down_left {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -235px;
+}
+
+.osmand_special_arrow_down_right {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -235px;
+}
+
+.osmand_special_arrow_left {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -235px;
+}
+
+.osmand_special_arrow_right {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -235px;
+}
+
+.osmand_special_arrow_right_and_left {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -235px;
+}
+
+.osmand_special_arrow_right_arrow_left {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -235px;
+}
+
+.osmand_special_arrow_up {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -261px;
+}
+
+.osmand_special_arrow_up_and_down {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -261px;
+}
+
+.osmand_special_arrow_up_arrow_down {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -261px;
+}
+
+.osmand_special_arrow_up_left {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -261px;
+}
+
+.osmand_special_arrow_up_right {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -261px;
+}
+
+.osmand_special_audio {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -261px;
+}
+
+.osmand_special_bicycle {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -261px;
+}
+
+.osmand_special_bookmark {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -261px;
+}
+
+.osmand_special_building {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -261px;
+}
+
+.osmand_special_camper {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -261px;
+}
+
+.osmand_special_campervan {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -261px;
+}
+
+.osmand_special_enduro_motorcycle {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -261px;
+}
+
+.osmand_special_flag_finish {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -261px;
+}
+
+.osmand_special_flag_start {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -261px;
+}
+
+.osmand_special_flag_stroke {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -261px;
+}
+
+.osmand_special_heart {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -261px;
+}
+
+.osmand_special_helicopter {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -261px;
+}
+
+.osmand_special_horse {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -287px;
+}
+
+.osmand_special_house {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -287px;
+}
+
+.osmand_special_image {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -287px;
+}
+
+.osmand_special_information {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -287px;
+}
+
+.osmand_special_letter_e {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -287px;
+}
+
+.osmand_special_letter_n {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -287px;
+}
+
+.osmand_special_letter_s {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -287px;
+}
+
+.osmand_special_letter_w {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -287px;
+}
+
+.osmand_special_marker {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -287px;
+}
+
+.osmand_special_microphone {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -287px;
+}
+
+.osmand_special_monowheel {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -287px;
+}
+
+.osmand_special_motor_scooter {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -287px;
+}
+
+.osmand_special_motorcycle {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -287px;
+}
+
+.osmand_special_number_0 {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -287px;
+}
+
+.osmand_special_number_1 {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -287px;
+}
+
+.osmand_special_number_2 {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -287px;
+}
+
+.osmand_special_number_3 {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -287px;
+}
+
+.osmand_special_number_4 {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -313px;
+}
+
+.osmand_special_number_5 {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -313px;
+}
+
+.osmand_special_number_6 {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -313px;
+}
+
+.osmand_special_number_7 {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -313px;
+}
+
+.osmand_special_number_8 {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -313px;
+}
+
+.osmand_special_number_9 {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -313px;
+}
+
+.osmand_special_offroad {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -313px;
+}
+
+.osmand_special_openstreetmap {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -313px;
+}
+
+.osmand_special_parking_time_limited {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -313px;
+}
+
+.osmand_special_people_group {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -313px;
+}
+
+.osmand_special_person {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -313px;
+}
+
+.osmand_special_photo_camera {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -313px;
+}
+
+.osmand_special_pickup_truck {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -313px;
+}
+
+.osmand_special_poi_big_ben {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -313px;
+}
+
+.osmand_special_poi_brandenburg_gate {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -313px;
+}
+
+.osmand_special_poi_chichen_itza {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -313px;
+}
+
+.osmand_special_poi_colosseum {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -313px;
+}
+
+.osmand_special_poi_eiffel_tower {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -339px;
+}
+
+.osmand_special_poi_sagrada_familia {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -339px;
+}
+
+.osmand_special_poi_statue_of_liberty {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -339px;
+}
+
+.osmand_special_poi_taj_mahal {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -339px;
+}
+
+.osmand_special_poi_us_capitol {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -339px;
+}
+
+.osmand_special_point_finish {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -339px;
+}
+
+.osmand_special_point_start {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -339px;
+}
+
+.osmand_special_point_start_finish {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -339px;
+}
+
+.osmand_special_sail_boat {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -339px;
+}
+
+.osmand_special_scooter {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -339px;
+}
+
+.osmand_special_shuttle_bus {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -339px;
+}
+
+.osmand_special_ski_touring {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -339px;
+}
+
+.osmand_special_skiing {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -339px;
+}
+
+.osmand_special_snowmobile {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -339px;
+}
+
+.osmand_special_star {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -339px;
+}
+
+.osmand_special_star_stroked {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -339px;
+}
+
+.osmand_special_subway {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -339px;
+}
+
+.osmand_special_sun {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -365px;
+}
+
+.osmand_special_sunset {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -365px;
+}
+
+.osmand_special_symbol_at_sign {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -365px;
+}
+
+.osmand_special_symbol_check_mark {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -365px;
+}
+
+.osmand_special_symbol_exclamation_mark {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -365px;
+}
+
+.osmand_special_symbol_minus {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -365px;
+}
+
+.osmand_special_symbol_number {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -365px;
+}
+
+.osmand_special_symbol_plus {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -365px;
+}
+
+.osmand_special_symbol_question_mark {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -365px;
+}
+
+.osmand_special_symbol_remove {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -365px;
+}
+
+.osmand_special_taxi {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -365px;
+}
+
+.osmand_special_time_end {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -365px;
+}
+
+.osmand_special_time_span {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -365px;
+}
+
+.osmand_special_time_start {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -365px;
+}
+
+.osmand_special_trekking {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -365px;
+}
+
+.osmand_special_truck {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -365px;
+}
+
+.osmand_special_utv {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -365px;
+}
+
+.osmand_special_video {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -391px;
+}
+
+.osmand_special_video_camera {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -391px;
+}
+
+.osmand_special_wagon {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -391px;
+}
+
+.osmand_sport_9pin {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -391px;
+}
+
+.osmand_sport_archery {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -391px;
+}
+
+.osmand_sport_athletics {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -391px;
+}
+
+.osmand_sport_baseball {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -391px;
+}
+
+.osmand_sport_basketball {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -391px;
+}
+
+.osmand_sport_bmx {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -391px;
+}
+
+.osmand_sport_canoe {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -391px;
+}
+
+.osmand_sport_climbing {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -391px;
+}
+
+.osmand_sport_cricket {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -391px;
+}
+
+.osmand_sport_cycling {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -391px;
+}
+
+.osmand_sport_diving {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -391px;
+}
+
+.osmand_sport_golf {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -391px;
+}
+
+.osmand_sport_handball {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -391px;
+}
+
+.osmand_sport_rugby_union {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -391px;
+}
+
+.osmand_sport_sailing {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -417px;
+}
+
+.osmand_sport_scuba_diving {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -417px;
+}
+
+.osmand_sport_shooting {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -417px;
+}
+
+.osmand_sport_skateboard {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -417px;
+}
+
+.osmand_sport_soccer {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -417px;
+}
+
+.osmand_sport_stadium {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -417px;
+}
+
+.osmand_sport_surfing {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -417px;
+}
+
+.osmand_sport_swimming {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -417px;
+}
+
+.osmand_sport_table_tennis {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -417px;
+}
+
+.osmand_sport_tennis {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -417px;
+}
+
+.osmand_stream {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -417px;
+}
+
+.osmand_suburb {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -417px;
+}
+
+.osmand_subway_station {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -417px;
+}
+
+.osmand_suction_point {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -417px;
+}
+
+.osmand_swimming_pool {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -417px;
+}
+
+.osmand_telescope_type_optical {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -417px;
+}
+
+.osmand_toll_booth {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -417px;
+}
+
+.osmand_tourism_apartment {
+    width: 24px;
+    height: 24px;
+    background-position: -443px -1px;
+}
+
+.osmand_tourism_aquarium {
+    width: 24px;
+    height: 24px;
+    background-position: -443px -27px;
+}
+
+.osmand_tourism_camp_site {
+    width: 24px;
+    height: 24px;
+    background-position: -443px -53px;
+}
+
+.osmand_tourism_hostel {
+    width: 24px;
+    height: 24px;
+    background-position: -443px -79px;
+}
+
+.osmand_tourism_hotel {
+    width: 24px;
+    height: 24px;
+    background-position: -443px -105px;
+}
+
+.osmand_tourism_information {
+    width: 24px;
+    height: 24px;
+    background-position: -443px -131px;
+}
+
+.osmand_tourism_museum {
+    width: 24px;
+    height: 24px;
+    background-position: -443px -157px;
+}
+
+.osmand_tourism_picnic_site {
+    width: 24px;
+    height: 24px;
+    background-position: -443px -183px;
+}
+
+.osmand_tourism_viewpoint {
+    width: 24px;
+    height: 24px;
+    background-position: -443px -209px;
+}
+
+.osmand_trade {
+    width: 24px;
+    height: 24px;
+    background-position: -443px -235px;
+}
+
+.osmand_training {
+    width: 24px;
+    height: 24px;
+    background-position: -443px -261px;
+}
+
+.osmand_training_yoga {
+    width: 24px;
+    height: 24px;
+    background-position: -443px -287px;
+}
+
+.osmand_travel_agent {
+    width: 24px;
+    height: 24px;
+    background-position: -443px -313px;
+}
+
+.osmand_tunnel {
+    width: 24px;
+    height: 24px;
+    background-position: -443px -339px;
+}
+
+.osmand_vending_drinks {
+    width: 24px;
+    height: 24px;
+    background-position: -443px -365px;
+}
+
+.osmand_village {
+    width: 24px;
+    height: 24px;
+    background-position: -443px -391px;
+}
+
+.osmand_volcano {
+    width: 24px;
+    height: 24px;
+    background-position: -443px -417px;
+}
+
+.osmand_waste_disposal {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -443px;
+}
+
+.osmand_water {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -443px;
+}
+
+.osmand_water_tap {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -443px;
+}
+
+.osmand_water_transport {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -443px;
+}
+
+.osmand_waterfall {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -443px;
+}
+
+.osmand_waterway_dock {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -443px;
+}
+
+.osmand_waterway_fuel {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -443px;
+}
+
+.osmand_wetland {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -443px;
+}
+
+.osmand_wheelchair_designated {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -443px;
+}
+
+.osmand_wood {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -443px;
+}
+
+.osmand_zoo {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -443px;
+}
