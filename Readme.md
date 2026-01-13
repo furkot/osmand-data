@@ -17,7 +17,7 @@ $ npm install --save @furkot/osmand-data
 Furkot pin symbols are characters in [furkot-icon-font] - see [here][furkot-icon-font-demo].
 
 ```js
-var data = require('@furkot/osmand-data');
+import data from '@furkot/osmand-data';
 
 console.log(data.toFurkot['building_type_church']); // === 34
 console.log(data.toOsmand['34']);                   // === 'building_type_church'

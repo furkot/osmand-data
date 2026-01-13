@@ -1,38 +1,30 @@
-const should = require('should');
-const data = require('..');
+import test from 'node:test';
+import data from '../lib/index.js';
 
-describe('furkot osmand data', function () {
-  it('should be an object', function () {
-    data.should.have.property('toFurkot').be.type('object');
-    data.should.have.property('toOsmand').be.type('object');
-    data.should.have.property('colors').be.type('object');
+test('should be an object', t => {
+  t.assert.equal(typeof data.toFurkot, 'object');
+  t.assert.equal(typeof data.toOsmand, 'object');
+  t.assert.equal(typeof data.colors, 'object');
+});
+
+test('should be consistent', t => {
+  Object.keys(data.toFurkot).forEach(osmandIcon => {
+    const furkotIcon = data.toFurkot[osmandIcon];
+    t.assert.deepEqual(osmandIcon, data.toOsmand[furkotIcon]);
   });
-
-
-  it('should be consistent', function () {
-    Object
-      .keys(data.toFurkot)
-      .forEach(osmandIcon => {
-        const furkotIcon = data.toFurkot[osmandIcon];
-        osmandIcon.should.eql(data.toOsmand[furkotIcon]);
-      });
-    Object.entries(Object
-      .entries(data.toOsmand)
-      .reduce((result, [, osmandIcon]) => {
-        result[osmandIcon] = result[osmandIcon] || 0;
-        result[osmandIcon] += 1;
-        return result;
-      }, {}))
-      .forEach(([osmandIcon, counter]) => {
-        if (counter > 1) {
-          const furkotIcon = data.toFurkot[osmandIcon];
-          should.exist(furkotIcon, osmandIcon);
-          data.toOsmand[furkotIcon].should.eql(osmandIcon);
-        }
-        else {
-          should.not.exist(data.toFurkot[osmandIcon]);
-        }
-      });
+  Object.entries(
+    Object.entries(data.toOsmand).reduce((result, [, osmandIcon]) => {
+      result[osmandIcon] = result[osmandIcon] || 0;
+      result[osmandIcon] += 1;
+      return result;
+    }, {})
+  ).forEach(([osmandIcon, counter]) => {
+    if (counter > 1) {
+      const furkotIcon = data.toFurkot[osmandIcon];
+      t.assert.ok(furkotIcon != null, osmandIcon);
+      t.assert.deepEqual(data.toOsmand[furkotIcon], osmandIcon);
+    } else {
+      t.assert.equal(data.toFurkot[osmandIcon], undefined, 'should not exist');
+    }
   });
-
 });
