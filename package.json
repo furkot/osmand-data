@@ -19,7 +19,7 @@
     "furkot",
     "osmand"
   ],
-  "dependencies": {
+  "devDependencies": {
     "@biomejs/biome": "2.3.11"
   },
   "scripts": {
